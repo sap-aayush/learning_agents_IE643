@@ -1,0 +1,21 @@
+alpha + beta = gamma square
+x square sin x + cos x square is equals to y square
+a + b whole square is equals to a square + b square + 2AB
+X equal to minus b + - under root b square - 4ac whole divided by 2a
+sin square x + cos square x = 1
+sin 90 - theta equal to cos theta
+x raised to the power n plus x raised to the power m is equal to x raised to the power n plus m
+e raised to the power x is equal to the limit as n approaches infinity of one plus x over n raised to the power n
+integral of log x is equals to x log x - x
+a square minus b square equal to a minus b multiplied by a + b
+tan theta equal to sin theta divided by cos theta
+integral of x cube dx from 0 to 1 is equals to 1 by 4
+d by dX of sin x = cos x
+summation of i where i goes from 1 to n is equal to n into n + 1 / 2
+summation of i square where i goes from 1 to n is equal to n into n + 1 into 2n + 1 whole divided by 6
+mu equal to summation of XI when I goes from 1 to N whole divided by N
+e raised to cos of log x
+derivative of e raise to X equal to e raise to x
+limit X tends to zero of sin x by x is equal to 1
+log of X multiplied by Y is equal to log x + log y
+under root 25 equal to 5
