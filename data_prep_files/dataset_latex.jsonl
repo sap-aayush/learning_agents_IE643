@@ -1,0 +1,41 @@
+{"input": "alpha + beta = gamma square", "output": "\\alpha + \\beta = \\gamma^2"}
+{"input": "x square sin x + cos x square is equals to y square", "output": "x^2 \\sin x + \\cos^2 x = y^2"}
+{"input": "a + b whole square is equals to a square + b square + 2AB", "output": "(a + b)^2 = a^2 + b^2 + 2ab"}
+{"input": "X equal to minus b + - under root b square - 4ac whole divided by 2a", "output": "X = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"}
+{"input": "sin square x + cos square x = 1", "output": "\\sin^2 x + \\cos^2 x = 1"}
+{"input": "sin 90 - theta equal to cos theta", "output": "\\sin(90^\\circ - \\theta) = \\cos \\theta"}
+{"input": "x raised to the power n plus x raised to the power m is equal to x raised to the power n plus m", "output": "x^n + x^m = x^{n+m}"}
+{"input": "e raised to the power x is equal to the limit as n approaches infinity of one plus x over n raised to the power n", "output": "e^x = \\lim_{n \\to \\infty} \\left( 1 + \\frac{x}{n} \\right)^n"}
+{"input": "integral of log x is equals to x log x - x", "output": "\\int \\log x \\, dx = x \\log x - x + C"}
+{"input": "a square minus b square equal to a minus b multiplied by a + b", "output": "a^2 - b^2 = (a - b)(a + b)"}
+{"input": "tan theta equal to sin theta divided by cos theta", "output": "\\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta}"}
+{"input": "integral of x cube dx from 0 to 1 is equals to 1 by 4", "output": "\\int_0^1 x^3 \\, dx = \\frac{1}{4}"}
+{"input": "d by dX of sin x = cos x", "output": "\\frac{d}{dx} \\sin x = \\cos x"}
+{"input": "summation of i where i goes from 1 to n is equal to n into n + 1 / 2", "output": "\\sum_{i=1}^{n} i = \\frac{n(n+1)}{2}"}
+{"input": "summation of i square where i goes from 1 to n is equal to n into n + 1 into 2n + 1 whole divided by 6", "output": "\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}"}
+{"input": "mu equal to summation of XI when I goes from 1 to N whole divided by N", "output": "\\mu = \\frac{1}{N} \\sum_{i=1}^{N} X_i"}
+{"input": "e raised to cos of log x", "output": "e^{\\cos(\\log x)}"}
+{"input": "derivative of e raise to X equal to e raise to x", "output": "\\frac{d}{dx} e^x = e^x"}
+{"input": "limit X tends to zero of sin x by x is equal to 1", "output": "\\lim_{x \\to 0} \\frac{\\sin x}{x} = 1"}
+{"input": "log of X multiplied by Y is equal to log x + log y", "output": "\\log(xy) = \\log x + \\log y"}
+{"input": "under root 25 equal to 5", "output": "\\sqrt{25} = 5"}
+{"input": "x square plus y square equals to r square", "output": "x^2 + y^2 = r^2"}
+{"input": "log of a raised to the power b is equal to b log a", "output": "\\log(a^b) = b \\log a"}
+{"input": "derivative of x square equals to 2x", "output": "\\frac{d}{dx} x^2 = 2x"}
+{"input": "integral of x dx is equal to x square divided by 2", "output": "\\int x \\, dx = \\frac{x^2}{2} + C"}
+{"input": "cos of pi divided by 2 is equal to 0", "output": "\\cos \\frac{\\pi}{2} = 0"}
+{"input": "log base a of x is equal to log x divided by log a", "output": "\\log_a x = \\frac{\\log x}{\\log a}"}
+{"input": "a raised to the power 0 is equal to 1", "output": "a^0 = 1"}
+{"input": "n factorial is equal to n times n minus 1 factorial", "output": "n! = n \\times (n-1)!"}
+{"input": "limit of 1 divided by n as n approaches infinity is equal to 0", "output": "\\lim_{n \\to \\infty} \\frac{1}{n} = 0"}
+{"input": "sine of pi equals to 0", "output": "\\sin \\pi = 0"}
+{"input": "arc tan of 1 equals to pi divided by 4", "output": "\\arctan(1) = \\frac{\\pi}{4}"}
+{"input": "log of 1 is equal to 0", "output": "\\log 1 = 0"}
+{"input": "e raised to the power of zero is equal to 1", "output": "e^0 = 1"}
+{"input": "derivative of sine x equals to cosine x", "output": "\\frac{d}{dx} \\sin x = \\cos x"}
+{"input": "integral of cosine x dx is equal to sine x", "output": "\\int \\cos x \\, dx = \\sin x + C"}
+{"input": "derivative of log x is equal to 1 divided by x", "output": "\\frac{d}{dx} \\log x = \\frac{1}{x}"}
+{"input": "natural log of e is equal to 1", "output": "\\ln e = 1"}
+{"input": "derivative of tan x equals secant square x", "output": "\\frac{d}{dx} \\tan x = \\sec^2 x"}
+{"input": "integral of x raised to the power n dx is equal to x raised to the power n plus 1 divided by n plus 1", "output": "\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C"}
+{"input": "cosine of zero is equal to 1", "output": "\\cos 0 = 1"}

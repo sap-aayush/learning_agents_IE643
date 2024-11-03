@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "latex-to-speech": "^0.0.4",
+    "mathjax-full": "^3.2.2"
+  },
+  "name": "learning_agents_ie643",
+  "version": "1.0.0",
+  "main": "dataset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sap-aayush/learning_agents_IE643.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sap-aayush/learning_agents_IE643/issues"
+  },
+  "homepage": "https://github.com/sap-aayush/learning_agents_IE643#readme",
+  "description": ""
+}
